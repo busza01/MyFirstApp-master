@@ -4,5 +4,9 @@
     <string name="txtTitle">ป้ายจราจร</string>
     <string name="MoreInfo">More Info</string>
     <string name="aboutMe">About Me</string>
+    <string name="name">ซื่อ นาย ศุภนัฎ เที่ยงธรรม\n
+    รหัสนักศึกษา 5711020660035\n
+    หลักสูตรวิทยาการคอมพิวเตอร์</string>
+    <string name="facebook">facebook Bus Spn</string>
 
 </resources>
